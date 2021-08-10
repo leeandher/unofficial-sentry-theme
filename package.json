@@ -1,0 +1,21 @@
+{
+  "name": "unofficial-sentry",
+  "displayName": "Unofficial Sentry",
+  "description": "An unofficial theme based on Sentry.io and their absolutely *choice* colour palette.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Unofficial Sentry Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Unofficial Sentry Theme-color-theme.json"
+      }
+    ]
+  }
+}
