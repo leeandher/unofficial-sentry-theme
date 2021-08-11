@@ -8,12 +8,26 @@
     "type": "git",
     "url": "https://github.com/leeandher/unofficial-sentry-theme"
   },
+  "bugs": {
+    "url": "https://github.com/leeandher/unofficial-sentry-theme/issues"
+  },
+  "icon": "images/circle-icon.png",
   "engines": {
     "vscode": "^1.59.0"
   },
+  "keywords": [
+    "sentry",
+    "dark",
+    "purple",
+    "orange"
+  ],
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#1D1127",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {

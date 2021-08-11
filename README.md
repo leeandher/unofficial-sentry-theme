@@ -4,9 +4,26 @@ So in case you don't know, the artists and designers over at [Sentry.io](https:/
 
 Take a look at some screenshots:
 
+**Practical Use**
+![Practical Use](https://i.imgur.com/awZlQSv.png)
 
+**JS / HTML / CSS**
+![JS / HTML / CSS](https://i.imgur.com/NZDavIs.png)
+
+
+**Python / JSON**
+![Python / JSON](https://i.imgur.com/R52A43Y.png)
+
+
+**MD / Preview / Webview / Settings**
+![MD / Preview / Webview / Settings](https://i.imgur.com/uXSFAZw.png)
+
+
+
+If I messed something up (and I probably did) you can let me know on the [Github Issues page](https://github.com/leeandher/unofficial-sentry-theme/issues).
+
+---
+
+by: [Leander Rodrigues](https://leander.xyz) & inspired by: [Sentry.io](https://sentry.io)
 
 _**#HackWeek2021**_
-
-By: [Leander Rodrigues](https://leander.xyz)
-Inspired by: [Sentry.io](https://sentry.io)
