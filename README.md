@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "unofficial-sentry"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# (Unofficial) Sentry Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+So in case you don't know, the artists and designers over at [Sentry.io](https://sentry.io) are excellent at their jobs, pumping out some sweet art and colour palettes. Those colours pop, so I figured, since it's all open-source, why not steal the colour palette to make a nice VS Code theme? Really this is just an excuse for me to have matching colours where ever I can, but if you'd like, you can check it out to! 👍
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Take a look at some screenshots:
 
-**Enjoy!**
+
+
+_**#HackWeek2021**_
+
+By: [Leander Rodrigues](https://leander.xyz)
+Inspired by: [Sentry.io](https://sentry.io)

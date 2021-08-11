@@ -1,8 +1,13 @@
 {
-  "name": "unofficial-sentry",
-  "displayName": "Unofficial Sentry",
+  "name": "unofficial-sentry-theme",
+  "displayName": "Unofficial Sentry Theme",
   "description": "An unofficial theme based on Sentry.io and their absolutely *choice* colour palette.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "leeandher",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leeandher/unofficial-sentry-theme"
+  },
   "engines": {
     "vscode": "^1.59.0"
   },
