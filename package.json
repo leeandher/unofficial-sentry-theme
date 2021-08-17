@@ -2,7 +2,7 @@
   "name": "unofficial-sentry-theme",
   "displayName": "Unofficial Sentry Theme",
   "description": "An unofficial theme based on Sentry.io and their absolutely *choice* colour palette.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "leeandher",
   "repository": {
     "type": "git",

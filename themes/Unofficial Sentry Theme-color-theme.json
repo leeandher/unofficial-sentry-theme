@@ -39,7 +39,10 @@
     "selection.background": "#f2b71244",
     "sideBar.background": "#2A1939",
     "sideBarTitle.foreground": "#D4D1EC",
+
     "statusBar.background": "#614c84",
+    "statusBar.noFolderBackground": "#614c84",
+    "statusBar.debuggingBackground": "#d6567f",
 
     "tab.activeBackground": "#2A1939",
     "tab.inactiveBackground": "#1D1127",
